@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou Patrick
 
-<!--
-**Patrickcder/Patrickcder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de Desenvolvimento Web focado em **HTML, CSS e JavaScript**.
 
-Here are some ideas to get you started:
+Atualmente estou aprimorando minhas habilidades em criação de interfaces modernas, responsivas e funcionais. Tenho desenvolvido projetos iniciais para fortalecer minha base no front-end e construir um portfólio sólido aqui no GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias que utilizo
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+## 📚 Atualmente aprendendo
+- Manipulação do DOM  
+- Responsividade e boas práticas de CSS  
+- Lógica de programação com JavaScript  
+
+---
+
+## 💡 Objetivo
+Busco minha primeira oportunidade como desenvolvedor para aplicar meus conhecimentos, ganhar experiência prática e evoluir constantemente na área de tecnologia.
+
+---
+
+📫 Confira meus projetos abaixo 👇
